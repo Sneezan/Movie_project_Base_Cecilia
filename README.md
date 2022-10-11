@@ -1,8 +1,6 @@
-# Technigo React Starter App
-
-This app has been generated using `create-react-app`, then cleaned up a little so we have a project with just the elements we need to get started.
-
-Add components in the `src` folder and use them in `src/app.js` to get started.
+# Movie project base by Cecilia
+This is a base for Movie Project, commited in large batch in seperate component files
+to use later. This is a part of a React app 
 
 ## Usage
 
@@ -17,4 +15,4 @@ Alternatively, if you don't want a new git repo on your account;
 1. Open the directory in the terminal: `cd /path/to/react-starter`
 1. Install required dependencies with npm: `npm install`
 1. Start the project: `npm start`
-# Movie_project_Base_Cecilia
+
